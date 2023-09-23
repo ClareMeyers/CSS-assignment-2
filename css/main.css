@@ -36,6 +36,8 @@ body {
     background: #B26219;
     display: flex;
     flex-wrap: wrap;
+    flex-direction: column;
+    align-items: center;
     justify-content: space-between;
     justify-content: center;
     padding: 4rem;
@@ -45,6 +47,8 @@ body {
     background: #FFBD82;
     display: flex;
     flex-wrap: wrap;
+    flex-direction: column;
+    align-items: center;
     justify-content: space-between;
     justify-content: center;
     padding: 4rem;
@@ -54,6 +58,8 @@ body {
     background: #FFD5AE;
     display: flex;
     flex-wrap: wrap;
+    flex-direction: column;
+    align-items: center;
     justify-content: space-between;
     justify-content: center;
     padding: 4rem;
